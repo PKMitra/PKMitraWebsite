@@ -1,0 +1,38 @@
+---
+title: "Prashanta Kumar Mitra"
+format: html
+---
+
+# Welcome
+
+Hello! I'm Prashanta Kumar Mitra, a passionate researcher with a PhD in Botany from the University of Kalyani and an MSc and BSc from The University of Burdwan. My expertise lies in honey pollen and chemical analysis, honey adulteration detection, data analysis, and the development of microfluidic devices.
+
+## About Me
+
+👨‍🔬 **Botanist \| Data Science Enthusiast**
+
+### What I Do
+
+-   **Honey Quality Assessment**: Specializing in the detection of honey adulteration and chemical analysis to ensure the purity and quality of honey.
+-   **Mycorrhizal Research**: Investigating plant-microbe interactions, particularly focusing on vesicular arbuscular mycorrhizal (VAM) fungi and their applications in sustainable agriculture.
+-   **Data Analysis & Visualization**: Utilizing R, Python, and various bioinformatics tools to analyze complex biological data, visualize genetic information, and contribute to impactful research publications.
+-   **Microfluidic Devices**: Designing and building microfluidic devices to serve various scientific fields, including plant science, biology research, and agriculture.
+
+## Skills
+
+-   **Data Analysis**: Proficient in statistical analysis, data visualization, and creating simulation models.
+-   **Scientific Writing**: Published several research articles and book chapters on honey quality, plant science, and sustainable agriculture.
+-   **Programming**: Skilled in R, Python, and various software development tools for building custom research solutions.
+-   **Bioinformatics**: Expertise in analyzing DNA sequences, protein structures, and genetic data using R and Python.
+-   **Microfluidics**: Design and development of innovative microfluidic devices for scientific research.
+
+## Achievements
+
+-   **Awards**: Winner at the West Bengal State Science & Technology Congress.
+-   **Qualifications**: Qualified NET and GATE.
+-   **Publications**: Authored multiple research articles and book chapters, contributing to the scientific community.
+
+## Connect with Me
+
+-   **LinkedIn**: [Prashanta Kumar Mitra](https://www.linkedin.com/in/prashanta-kumar-mitra)
+-   **ResearchGate**: [Prashanta Kumar Mitra](https://www.researchgate.net/profile/Prashanta-Kumar-Mitra)

@@ -1,0 +1,30 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+## WBHESTB Funded Project
+
+### Exploring Bee Flora Through Melissopalynological Study and Quality Assessment of Honeys in Quest of Beekeeping Potential for Socio-Economic Development in Uttar Dinajpur District of West Bengal
+
+**Institution**: University of Kalyani\
+**Duration**: 2019 - 2021\
+**Description**: This project aimed to explore the diversity of bee flora through melissopalynological studies and assess the quality of honeys. The goal was to evaluate the potential of beekeeping for socio-economic development in the Uttar Dinajpur district of West Bengal.
+
+## WB-DST Funded Project
+
+### Molecular Assessment of Mycorrhizal Association of Clerodendrum Indicum (L.) O. Kuntze (Verbenaceae), a High-Valued Threatened Medicinal Plant, for Its Conservation in Natural Environment
+
+**Institution**: University of Gour Banga\
+**Duration**: 2018 - 2019\
+**Description**: This project focused on the molecular assessment of mycorrhizal associations in Clerodendrum indicum, a high-valued threatened medicinal plant. The objective was to conserve this plant in its natural environment by understanding its mycorrhizal relationships.
+
+## Industrial Research Project
+
+### Development of Rapid Technology to Identify Abnormalities on Y Chromosome and Ambiguous Genitalia
+
+**Institution**: DSR Genome Technologies\
+**Duration**: 2015\
+**Description**: This industrial research project aimed to develop rapid technology for identifying abnormalities on the Y chromosome and ambiguous genitalia. The project was conducted at DSR Genome Technologies and focused on creating efficient diagnostic methods.
